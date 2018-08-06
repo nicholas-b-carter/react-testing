@@ -19,7 +19,7 @@
     "flummox": "^3.1.1",
     "q": "^1.2.0",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6",
+    "react-dom": "^16.0.1",
     "twit": "^1.1.20"
   },
   "devDependencies": {
